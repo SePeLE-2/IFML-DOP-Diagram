@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="ASCII"?>
+<core:IFMLModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://www.omg.org/spec/20130218/core" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" id="_qs2fUCHyEfCIvKPLnXK0KA">
+  <domainModel id="_qs2fUSHyEfCIvKPLnXK0KA">
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtOSwCHyEfCIvKPLnXK0KA" name="PaymentImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oYINgCCbEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagACHyEfCIvKPLnXK0KA" name="salesprocessimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_sJRnECCfEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagASHyEfCIvKPLnXK0KA" name="pay">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_gDtjcCCfEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagAiHyEfCIvKPLnXK0KA" name="pay">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QPTiYCFWEfCJNfCpZQuMsg"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagAyHyEfCIvKPLnXK0KA" name="PaymentImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_ggc8ECCaEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagBCHyEfCIvKPLnXK0KA" name="amount">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_qMKPkCCeEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagBSHyEfCIvKPLnXK0KA" name="bundlingimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_K5T6MiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagBiHyEfCIvKPLnXK0KA" name="ticketimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Lx-AgiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagByHyEfCIvKPLnXK0KA" name="pay">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_2mC9YCCeEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagCCHyEfCIvKPLnXK0KA" name="PaymentImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xsRSYCCbEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagCSHyEfCIvKPLnXK0KA" name="paymentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_YCBe4CGlEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagCiHyEfCIvKPLnXK0KA" name="pay">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_iOvQkCCfEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagCyHyEfCIvKPLnXK0KA" name="publish">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_L09PoCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagDCHyEfCIvKPLnXK0KA" name="ArticleImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_HmuUoCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagDSHyEfCIvKPLnXK0KA" name="idArticle">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_wBi9oCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagDiHyEfCIvKPLnXK0KA" name="title">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_w3g8UCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagDyHyEfCIvKPLnXK0KA" name="content">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xIhMwCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagECHyEfCIvKPLnXK0KA" name="author">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xZmVsCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagESHyEfCIvKPLnXK0KA" name="datePublished">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xn1mACGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagEiHyEfCIvKPLnXK0KA" name="eventorganizerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_TKXxcSG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagEyHyEfCIvKPLnXK0KA" name="publish">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_s0bhYCGmEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagFCHyEfCIvKPLnXK0KA" name="ArticleImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_F4Xf8CGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagFSHyEfCIvKPLnXK0KA" name="articleimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_1QIBsSGuEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtagFiHyEfCIvKPLnXK0KA" name="addComment">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_IASOsCGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagFyHyEfCIvKPLnXK0KA" name="CommentImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_gXtFgCGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagGCHyEfCIvKPLnXK0KA" name="idContent">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_kdGNkCGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagGSHyEfCIvKPLnXK0KA" name="content">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_kuffkCGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagGiHyEfCIvKPLnXK0KA" name="author">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_k--LkCGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagGyHyEfCIvKPLnXK0KA" name="articleimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xamk0iGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagHCHyEfCIvKPLnXK0KA" name="eventorganizerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_n_6LASG9EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagHSHyEfCIvKPLnXK0KA" name="customerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_ttc8oCG9EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagHiHyEfCIvKPLnXK0KA" name="Comment">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_ww5hgCGnEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtagHyHyEfCIvKPLnXK0KA" name="TicketImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_d6EI8CGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagICHyEfCIvKPLnXK0KA" name="id">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_nSU40CGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtagISHyEfCIvKPLnXK0KA" name="eventName">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_njlA4CGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHECHyEfCIvKPLnXK0KA" name="ticketName">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_nvZPUCGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHESHyEfCIvKPLnXK0KA" name="price">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_n6pdECGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHEiHyEfCIvKPLnXK0KA" name="expiryDate">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oDWtICGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHEyHyEfCIvKPLnXK0KA" name="purchaseDate">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oNI7QCGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHFCHyEfCIvKPLnXK0KA" name="availability">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oYtSECGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbHFSHyEfCIvKPLnXK0KA" name="purchase">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_idNkACGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbHFiHyEfCIvKPLnXK0KA" name="refund">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_i0YG0CGoEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbHFyHyEfCIvKPLnXK0KA" name="BundlingImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_z_xmYCGpEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHGCHyEfCIvKPLnXK0KA" name="id">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_OfF90CGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHGSHyEfCIvKPLnXK0KA" name="bundlingName">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_PNiYMCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHGiHyEfCIvKPLnXK0KA" name="price">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_PZyrgCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHGyHyEfCIvKPLnXK0KA" name="expiryDate">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Pm3eMCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHHCHyEfCIvKPLnXK0KA" name="purchaseDate">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_PzwDoCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHHSHyEfCIvKPLnXK0KA" name="availability">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QAOZYCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHHiHyEfCIvKPLnXK0KA" name="ticketimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Plpj8iGvEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbHHyHyEfCIvKPLnXK0KA" name="purchase">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_fbMSkCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbHICHyEfCIvKPLnXK0KA" name="refund">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_fxZzICGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbHISHyEfCIvKPLnXK0KA" name="EventOrganizerImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_5JdAgCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHIiHyEfCIvKPLnXK0KA" name="id">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_DqbE4CGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbHIyHyEfCIvKPLnXK0KA" name="name">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_DzEqkCGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuICHyEfCIvKPLnXK0KA" name="email">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_EFvH4CGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuISHyEfCIvKPLnXK0KA" name="location">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_EbiYwCGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuIiHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oCl9giG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuIyHyEfCIvKPLnXK0KA" name="SocialMediaImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_-ML6kCGqEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuJCHyEfCIvKPLnXK0KA" name="id">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_CePloCGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuJSHyEfCIvKPLnXK0KA" name="platform">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Cz5FgCGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuJiHyEfCIvKPLnXK0KA" name="username">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_DG6vMCGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuJyHyEfCIvKPLnXK0KA" name="url">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_DSDoMCGrEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuKCHyEfCIvKPLnXK0KA" name="eventorganizerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_basfUCGvEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuKSHyEfCIvKPLnXK0KA" name="ReportImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_MfnKoCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuKiHyEfCIvKPLnXK0KA" name="idReport">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_PlYBsCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuKyHyEfCIvKPLnXK0KA" name="idEvent">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QCliICGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuLCHyEfCIvKPLnXK0KA" name="eventName">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QKuKcCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuLSHyEfCIvKPLnXK0KA" name="eventDate">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QdnRQCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuLiHyEfCIvKPLnXK0KA" name="reportDate">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Q1zHwCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuLyHyEfCIvKPLnXK0KA" name="ticketSold">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_RLUEwCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuMCHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_FMuK0CG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbuMSHyEfCIvKPLnXK0KA" name="generateReport">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_yhV1UCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuMiHyEfCIvKPLnXK0KA" name="ReportImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_9LwJkCGwEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuMyHyEfCIvKPLnXK0KA" name="totalRevenue">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Ch_OcCGxEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuNCHyEfCIvKPLnXK0KA" name="reportimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_TTJCAiGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbuNSHyEfCIvKPLnXK0KA" name="calculateRevenue">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_DxpfgCGxEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuNiHyEfCIvKPLnXK0KA" name="ReportImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_rOonQCGxEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuNyHyEfCIvKPLnXK0KA" name="showingAttendance">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_wgydYCGxEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuOCHyEfCIvKPLnXK0KA" name="attendancePercentage">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xf_QkCGxEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuOSHyEfCIvKPLnXK0KA" name="reportimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_UbjbkiGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtbuOiHyEfCIvKPLnXK0KA" name="calculateAttendancePercentage">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_yAWLoCGxEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuOyHyEfCIvKPLnXK0KA" name="AttendanceStats">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_GUgoYCGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuPCHyEfCIvKPLnXK0KA" name="SalesReport">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_LrgiQCGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuPSHyEfCIvKPLnXK0KA" name="EWallet">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_OGhWsCGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuPiHyEfCIvKPLnXK0KA" name="CreditCard">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_R5J60CGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtbuPyHyEfCIvKPLnXK0KA" name="CustomerImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_qzi70CGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuQCHyEfCIvKPLnXK0KA" name="id">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_uqGWoCGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuQSHyEfCIvKPLnXK0KA" name="firstName">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_vFM-QCGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuQiHyEfCIvKPLnXK0KA" name="lastName">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_vgZFcCGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuQyHyEfCIvKPLnXK0KA" name="email">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_vxyXcCGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuRCHyEfCIvKPLnXK0KA" name="phoneNumber">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_wqjLcCGzEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuRSHyEfCIvKPLnXK0KA" name="paymentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_LKFEoiG8EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtbuRiHyEfCIvKPLnXK0KA" name="bundlingimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_OiM3AiG8EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVMCHyEfCIvKPLnXK0KA" name="ticketimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Uo_2IiG8EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVMSHyEfCIvKPLnXK0KA" name="EventImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_H_MhMCG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVMiHyEfCIvKPLnXK0KA" name="idEvent">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_M6CqkCG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVMyHyEfCIvKPLnXK0KA" name="name">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_NY6X4CG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVNCHyEfCIvKPLnXK0KA" name="date">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Nh4GoCG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVNSHyEfCIvKPLnXK0KA" name="location">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_N0v_UCG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVNiHyEfCIvKPLnXK0KA" name="description">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_OKpW0CG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVNyHyEfCIvKPLnXK0KA" name="ticketimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_hwUuMCG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVOCHyEfCIvKPLnXK0KA" name="bundlingimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_kLjagiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVOSHyEfCIvKPLnXK0KA" name="createEvent">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_PkkXICG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVOiHyEfCIvKPLnXK0KA" name="getDetails">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QEP8wCG1EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVOyHyEfCIvKPLnXK0KA" name="Seat">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_OvvLcCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVPCHyEfCIvKPLnXK0KA" name="seatNumber">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_W_ZUgCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVPSHyEfCIvKPLnXK0KA" name="row">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_XhU84CG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVPiHyEfCIvKPLnXK0KA" name="isOccupied">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_X-h2QCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVPyHyEfCIvKPLnXK0KA" name="occupantId">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_YSlasCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVQCHyEfCIvKPLnXK0KA" name="reserve">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_ZfDN0CG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVQSHyEfCIvKPLnXK0KA" name="release">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_aAyo8CG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVQiHyEfCIvKPLnXK0KA" name="EventImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_txhogCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVQyHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_IP8LkiG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVRCHyEfCIvKPLnXK0KA" name="seat">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_gHnLUiG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVRSHyEfCIvKPLnXK0KA" name="assignSeat">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_0UMEQCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVRiHyEfCIvKPLnXK0KA" name="getAvailableSeats">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_04NXUCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVRyHyEfCIvKPLnXK0KA" name="getSeatForUser">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_1BICwCG2EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVSCHyEfCIvKPLnXK0KA" name="Rating">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QuQ4MCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVSSHyEfCIvKPLnXK0KA" name="userId">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_UxljsCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVSiHyEfCIvKPLnXK0KA" name="score">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_VBFYQCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVSyHyEfCIvKPLnXK0KA" name="comment">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_WD-YoCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVTCHyEfCIvKPLnXK0KA" name="timeStamp">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_WW8X8CG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVTSHyEfCIvKPLnXK0KA" name="EventImpl">
+      <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_fSpusCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVTiHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QeN0kSG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVTyHyEfCIvKPLnXK0KA" name="rating">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_q1d1IiG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVUCHyEfCIvKPLnXK0KA" name="addRating">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_jSaI0CG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLBehavioralFeature" id="_qtcVUSHyEfCIvKPLnXK0KA" name="getAverageRating">
+      <behavioralFeature xsi:type="uml:Operation" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_j2tvwCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVUiHyEfCIvKPLnXK0KA" name="Rating">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_4l1DICG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLDomainConcept" id="_qtcVUyHyEfCIvKPLnXK0KA" name="SeatMapping">
+      <classifier xsi:type="uml:Component" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_6umtgCG3EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVVCHyEfCIvKPLnXK0KA" name="salesprocessimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_sJRnEyCfEfCGrZHZMGtCtA"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVVSHyEfCIvKPLnXK0KA" name="paymentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_YCCtACGlEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVViHyEfCIvKPLnXK0KA" name="class1">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_1QJP0SGuEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVVyHyEfCIvKPLnXK0KA" name="bundlingimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_PlqLAiGvEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVWCHyEfCIvKPLnXK0KA" name="socialmediaimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_basfUyGvEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVWSHyEfCIvKPLnXK0KA" name="reportimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_TTJpESGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVWiHyEfCIvKPLnXK0KA" name="reportimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_UbkCoiGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVWyHyEfCIvKPLnXK0KA" name="commentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_xanL4SGyEfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVXCHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_IP9ZsiG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVXSHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_QeOboSG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVXiHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_gHnyYiG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVXyHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_q1ecMiG4EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVYCHyEfCIvKPLnXK0KA" name="reportimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_FMuK0yG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtcVYSHyEfCIvKPLnXK0KA" name="paymentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_K5VIUSG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8QCHyEfCIvKPLnXK0KA" name="paymentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_Lx-nkiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8QSHyEfCIvKPLnXK0KA" name="articleimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_TKYYgiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8QiHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_hwUuMyG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8QyHyEfCIvKPLnXK0KA" name="eventimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_kLkBkiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8RCHyEfCIvKPLnXK0KA" name="eventorganizerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oCmkkiG7EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8RSHyEfCIvKPLnXK0KA" name="customerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_LKFrsiG8EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8RiHyEfCIvKPLnXK0KA" name="customerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_OiNeEiG8EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8RyHyEfCIvKPLnXK0KA" name="customerimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_UpAdMiG8EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8SCHyEfCIvKPLnXK0KA" name="commentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_n_6yESG9EfCn7tu5Ovjl-w"/>
+    </domainElements>
+    <domainElements xsi:type="core:UMLStructuralFeature" id="_qtc8SSHyEfCIvKPLnXK0KA" name="commentimpl">
+      <structuralFeature xsi:type="uml:Property" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_ttdjsSG9EfCn7tu5Ovjl-w"/>
+    </domainElements>
+  </domainModel>
+</core:IFMLModel>
