@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="ASCII"?>
-<core:IFMLModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://www.omg.org/spec/20130218/core" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" id="_qs2fUCHyEfCIvKPLnXK0KA">
+<core:IFMLModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://www.omg.org/spec/20130218/core" xmlns:ext="http://www.omg.org/spec/20130218/ext" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" id="_qs2fUCHyEfCIvKPLnXK0KA" name="&lt;&lt;Form>> Add Event">
+  <interactionFlowModel id="_w5aLYCH2EfCIvKPLnXK0KA">
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_w5lxkCH2EfCIvKPLnXK0KA" name="Event">
+      <viewElements xsi:type="ext:List" id="_76RQwCH2EfCIvKPLnXK0KA" name="&lt;&lt;List>> Event">
+        <viewComponentParts xsi:type="core:DataBinding" id="_CNIV8CH3EfCIvKPLnXK0KA" name="&lt;&lt;DataBinding>> EventData">
+          <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_IBN0cCH3EfCIvKPLnXK0KA" name="&lt;&lt;VisualisationAttribute>> Name: String"/>
+          <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_QedGgCH3EfCIvKPLnXK0KA" name="&lt;&lt;VisualisationAttribute>> Date: Date"/>
+          <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_SxrGUCH3EfCIvKPLnXK0KA" name="&lt;&lt;VisualisationAttribute>> Location: String"/>
+        </viewComponentParts>
+      </viewElements>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_cQo7ICH3EfCIvKPLnXK0KA" name="Add Event">
+      <viewElements xsi:type="ext:Form" id="_ijQIsCH3EfCIvKPLnXK0KA" name="Form">
+        <viewComponentParts xsi:type="ext:SimpleField" id="_oE1h8CH3EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> idEvent: Integer"/>
+        <viewComponentParts xsi:type="ext:SimpleField" id="_3QJ1kCH3EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> Name: String"/>
+        <viewComponentParts xsi:type="ext:SimpleField" id="_7s3RcCH3EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> Date: Date"/>
+        <viewComponentParts xsi:type="ext:SimpleField" id="_-ulWACH3EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> Location: String"/>
+        <viewComponentParts xsi:type="ext:SimpleField" id="_Cz0GACH4EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> Description: String"/>
+      </viewElements>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_QP9iECH4EfCIvKPLnXK0KA" name="[XOR] &lt;&lt;ViewContainer>> Customer">
+      <viewElements xsi:type="core:ViewContainer" id="_Zq8OwCH4EfCIvKPLnXK0KA" name="Event Detail">
+        <viewElements xsi:type="ext:Details" id="_jrrT4CH4EfCIvKPLnXK0KA" name="&lt;&lt;Details>> Event">
+          <viewComponentParts xsi:type="core:DataBinding" id="_p1fx0CH4EfCIvKPLnXK0KA" name="&lt;&lt;DataBinding>> EventData">
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_vUZqgCH4EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> idEvent: Integer"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_0KR0UCH4EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Name: String"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_4kEfECH4EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Date: Date"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_7HVtECH4EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Location: String"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_-BFhYCH4EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Description: String"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_A3dRkCH5EfCIvKPLnXK0KA" name="&lt;&lt; SelectionAttribute >> ReportType: String"/>
+          </viewComponentParts>
+        </viewElements>
+      </viewElements>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_WwYFoCH5EfCIvKPLnXK0KA" name="ViewContainer">
+      <viewElements xsi:type="ext:Form" id="_N6l7QCH6EfCIvKPLnXK0KA" name="&lt;&lt;Form>> Add Rating">
+        <viewComponentParts xsi:type="ext:SimpleField" id="_S-y08CH6EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> score: Integer"/>
+        <viewComponentParts xsi:type="ext:SimpleField" id="_WpHKkCH6EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> comment: String"/>
+      </viewElements>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_X2IMwCH5EfCIvKPLnXK0KA" name="ViewContainer">
+      <viewElements xsi:type="ext:Form" id="_aTGwECH6EfCIvKPLnXK0KA" name="&lt;&lt;Form>> Fill Seat">
+        <viewComponentParts xsi:type="ext:SimpleField" id="_cc2q0CH6EfCIvKPLnXK0KA" name="&lt;&lt;SimpleField>> seatNumber: Integer"/>
+      </viewElements>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_a0ZUsCH5EfCIvKPLnXK0KA" name="[XOR] &lt;&lt;ViewContainer>> EventOrganizer ">
+      <viewElements xsi:type="core:ViewContainer" id="_d9vEMCH5EfCIvKPLnXK0KA" name="Event Detail">
+        <viewElements xsi:type="ext:Details" id="_kc3q0CH5EfCIvKPLnXK0KA" name="Event Detail">
+          <viewComponentParts xsi:type="core:DataBinding" id="_oSAJUCH5EfCIvKPLnXK0KA" name="&lt;&lt;DataBinding>> EventData">
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_sUVWUCH5EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> idEvent: Integer"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_xZtUsCH5EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Name: String"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_0XSgICH5EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Date: Date"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_4PuKQCH5EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Location: String"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_6bT4ECH5EfCIvKPLnXK0KA" name="&lt;&lt; VisualisationAttribute >> Description: String"/>
+            <subViewComponentParts xsi:type="core:VisualizationAttribute" id="_-EGjsCH5EfCIvKPLnXK0KA" name="&lt;&lt; SelectionAttribute >> ReportType: String"/>
+          </viewComponentParts>
+        </viewElements>
+      </viewElements>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:IFMLAction" id="_kEE64CH6EfCIvKPLnXK0KA" name="&lt;&lt;Action>> AddRating"/>
+    <interactionFlowModelElements xsi:type="core:IFMLAction" id="_tOI2sCH6EfCIvKPLnXK0KA" name="&lt;&lt;Action>> FillSeat"/>
+  </interactionFlowModel>
   <domainModel id="_qs2fUSHyEfCIvKPLnXK0KA">
     <domainElements xsi:type="core:UMLDomainConcept" id="_qtOSwCHyEfCIvKPLnXK0KA" name="PaymentImpl">
       <classifier xsi:type="uml:Class" href="../UML-DOP-Diagram/UML-DOP%20Project/UML-DOP%20Project.uml#_oYINgCCbEfCGrZHZMGtCtA"/>
