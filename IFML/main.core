@@ -49,6 +49,14 @@
         </viewElements>
       </viewElements>
     </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="ext:IFMLMenu" id="_S2oSECHnEfCgKp6_bGQndQ" name="NewsArticle">
+      <annotations text="NewsArticle"/>
+      <viewElementEvents id="_j1ME8CHnEfCgKp6_bGQndQ" name="Article"/>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="ext:IFMLMenu" id="_cJEGwCHnEfCgKp6_bGQndQ" name="Comment">
+      <annotations text="Comment"/>
+      <viewElementEvents id="_m6u5kCHnEfCgKp6_bGQndQ" name="Comment"/>
+    </interactionFlowModelElements>
   </interactionFlowModel>
   <domainModel id="_1fQfgSHSEfCV7_Auq0INHA">
     <domainElements xsi:type="core:UMLDomainConcept" id="_1fhlQCHSEfCV7_Auq0INHA" name="PaymentImpl">
