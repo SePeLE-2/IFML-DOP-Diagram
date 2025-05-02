@@ -51,7 +51,11 @@
     </interactionFlowModelElements>
     <interactionFlowModelElements xsi:type="ext:IFMLMenu" id="_S2oSECHnEfCgKp6_bGQndQ" name="NewsArticle">
       <annotations text="NewsArticle"/>
-      <viewElementEvents id="_j1ME8CHnEfCgKp6_bGQndQ" name="Article"/>
+      <viewElementEvents id="_j1ME8CHnEfCgKp6_bGQndQ" name="Article">
+        <outInteractionFlows xsi:type="core:NavigationFlow" id="_Ge8JByaPEfCsFLbhyFJVnA">
+          <targetInteractionFlowElement xsi:type="core:ViewContainer" href="Article.core#//@interactionFlowModel/@interactionFlowModelElements.0/@interactionFlowModelElement.0/@viewElements.1"/>
+        </outInteractionFlows>
+      </viewElementEvents>
     </interactionFlowModelElements>
     <interactionFlowModelElements xsi:type="ext:IFMLMenu" id="_cJEGwCHnEfCgKp6_bGQndQ" name="Comment">
       <annotations text="Comment"/>

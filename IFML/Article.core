@@ -21,8 +21,10 @@
             </viewComponentParts>
           </viewElements>
         </viewElements>
-        <viewElements xsi:type="core:ViewContainer" id="_Nrx2cCHqEfCgKp6_bGQndQ" name="List Article Page" inInteractionFlows="//@interactionFlowModel/@interactionFlowModelElements.1/@actionEvents.0/@outInteractionFlows.0">
+        <viewElements xsi:type="core:ViewContainer" id="_Nrx2cCHqEfCgKp6_bGQndQ" name="List Article Page">
           <annotations text="/article"/>
+          <inInteractionFlows xsi:type="core:NavigationFlow" href="#//@interactionFlowModel/@interactionFlowModelElements.1/@actionEvents.0/@outInteractionFlows.0"/>
+          <inInteractionFlows xsi:type="core:NavigationFlow" href="main.core#//@interactionFlowModel/@interactionFlowModelElements.4/@viewElementEvents.0/@outInteractionFlows.0"/>
           <viewElementEvents id="_p2Hv0CHrEfCgKp6_bGQndQ" name="Add Article">
             <outInteractionFlows xsi:type="core:NavigationFlow" id="_svqIwCHrEfCgKp6_bGQndQ" targetInteractionFlowElement="//@interactionFlowModel/@interactionFlowModelElements.0/@interactionFlowModelElement.0/@viewElements.2"/>
           </viewElementEvents>

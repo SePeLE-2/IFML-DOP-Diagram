@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <core:IFMLModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://www.omg.org/spec/20130218/core" xmlns:dop-extension="http://amanah.cs.ui.ac.id/ifml/dop" xmlns:ext="http://www.omg.org/spec/20130218/ext" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" id="_LkVTsCHoEfCgKp6_bGQndQ">
   <interactionFlowModel id="_Adm6ECHsEfCgKp6_bGQndQ">
-    <interactionFlowModelElements xsi:type="dop-extension:DeltaModuleDefinition" id="_AdovQCHsEfCgKp6_bGQndQ" name="Delta">
-      <interactionFlowModelElement xsi:type="dop-extension:Delta" id="_F2HP0CHsEfCgKp6_bGQndQ" name="Delta">
+    <interactionFlowModelElements xsi:type="dop-extension:DeltaModuleDefinition" id="_AdovQCHsEfCgKp6_bGQndQ" name="Comment">
+      <inputPorts id="_JFmA0CPfEfCoOdJ0Y7WaxA" name="CommentIn"/>
+      <interactionFlowModelElement xsi:type="dop-extension:Delta" id="_F2HP0CHsEfCgKp6_bGQndQ" name="Comment">
         <viewElements xsi:type="dop-extension:AddedViewContainer" id="_IefAQCHsEfCgKp6_bGQndQ" name="Add Comment Page" inInteractionFlows="//@interactionFlowModel/@interactionFlowModelElements.0/@interactionFlowModelElement.0/@viewElements.1/@viewElements.0/@viewElementEvents.0/@outInteractionFlows.0">
           <annotations text="/comment/add"/>
           <viewElements xsi:type="dop-extension:AddedForm" id="_NI-ZcCHsEfCgKp6_bGQndQ" name="Add Comment">
@@ -15,7 +16,7 @@
             </viewComponentParts>
           </viewElements>
         </viewElements>
-        <viewElements xsi:type="dop-extension:ModifiedViewContainer" id="_JahKsCHsEfCgKp6_bGQndQ" name="Modified ViewContainer" inInteractionFlows="//@interactionFlowModel/@interactionFlowModelElements.0/@interactionFlowModelElement.0/@actions.0/@actionEvents.0/@outInteractionFlows.0">
+        <viewElements xsi:type="dop-extension:ModifiedViewContainer" id="_JahKsCHsEfCgKp6_bGQndQ" name="List Article Page" inInteractionFlows="//@interactionFlowModel/@interactionFlowModelElements.0/@interactionFlowModelElement.0/@actions.0/@actionEvents.0/@outInteractionFlows.0">
           <annotations text="/comment"/>
           <viewElements xsi:type="dop-extension:AddedList" id="_amB0cCHsEfCgKp6_bGQndQ" name="List Comment">
             <viewElementEvents xsi:type="dop-extension:AddedViewElementEvent" id="_wWcMwCHsEfCgKp6_bGQndQ" name="Add Comment">
